@@ -11,7 +11,7 @@ end
 
 def division(num1, num2)
    quo = num1 /num2
-  return sum
+  return quo
 end
 
 def multiplication(num1, num2)
